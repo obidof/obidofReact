@@ -1,0 +1,22 @@
+body {
+    background-color: #333;
+    color: white;
+}
+
+.count {
+    box-shadow: 0 0 10px silver;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.col1 {
+    color: green;
+}
+
+.col2 {
+    color: blue;
+}
